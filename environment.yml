@@ -5,6 +5,7 @@ dependencies:
   - python=3.9
   - pip=21.2.4
   - nb_conda_kernels
+  - sqlite=3.48.0
   - pip:
     - -r requirements_torch.txt
     - -r requirements.txt
